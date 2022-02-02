@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/TicTacToeConsoleApp/.vs/TicTacToeConsoleApp
+/TicTacToeConsoleApp/TicTacToeConsoleApp/bin/Debug/net5.0
+/TicTacToeConsoleApp/TicTacToeConsoleApp/obj
